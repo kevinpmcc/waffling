@@ -4,7 +4,7 @@ Waffle is a task management system you can use to track the completion of Github
 issues.  
 
 
-Set up an account at waffle.io.  
+Set up an account at [waffle.io](www.waffle.io).  
   
 Create issues in your Github repo.  
   
